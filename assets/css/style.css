@@ -1,0 +1,44 @@
+*{
+	scroll-behavior: smooth;
+}
+
+/* for services section background gradient */
+.feature{
+	background-color: rgb(0, 121, 230);
+	background-image: linear-gradient(0deg, rgba(0, 121, 230, 1) 0%, rgba(0, 250, 255, 1) 50%);
+}
+
+.backtop {
+	float: right;
+}
+
+.footer_section a {
+	text-decoration: none;
+	color: black;
+}
+
+.footer_section ul {
+	list-style-type: none;
+}
+
+.grid1 {
+	background-color: rgb(10, 93, 167);
+	background-image: linear-gradient(0deg, rgb(169,195,252) 0%, rgb(220,195,252) 50%);
+}
+
+.grid1 li, .bg_checkout_1 li {
+	background-color: rgb(220,195,252);
+}
+
+.bg_checkout_1 {
+	background-color: rgb(10, 93, 167);
+	background-image: linear-gradient(0deg, rgb(169,195,252) 0%, rgb(220,195,252) 50%);
+}
+
+.bg_checkout_1 li{
+	background-color: rgb(220,195,252);
+}
+
+div .purchase {
+	margin-top: 10px;
+}
